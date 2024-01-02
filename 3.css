@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.h1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transition: all 3s;
+}
+.h1:hover{
+    background-color: brown;
+    border-radius: 100%;
+}

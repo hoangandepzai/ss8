@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+.form{
+    border: 1px solid rgb(37, 37, 37);
+    width: 200px;
+    background-color: rgb(222, 175, 114);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.mau{
+    background-color: rgb(207, 207, 32);
+    margin-bottom: 5px;
+}
